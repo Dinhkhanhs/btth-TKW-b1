@@ -1,0 +1,173 @@
+DANH SÁCH TÊN FILE ẢNH
+======================
+Đặt ảnh vào thư mục này, đặt tên đúng như cột trái (đuôi .jpg, .png, .webp hoặc .jpeg đều được).
+Trang web tự thay hình minh họa bằng ảnh của bạn. Khuyên dùng ảnh vuông hoặc 4:3, rộng tối thiểu 800px.
+
+## Ảnh bìa đầu trang (tùy chọn)
+bia                                       <-  Ảnh bìa lớn ở đầu trang
+
+## Bánh sinh nhật
+
+# Bánh kem tươi
+banh-kem-dau-tuoi                         <-  Bánh kem dâu tươi
+banh-kem-kiwi-tuoi                        <-  Bánh kem kiwi tươi
+banh-kem-xoai-tuoi                        <-  Bánh kem xoài tươi
+banh-kem-socola-tuoi                      <-  Bánh kem socola tươi
+banh-kem-viet-quat                        <-  Bánh kem việt quất
+banh-kem-trai-cay-tong-hop                <-  Bánh kem trái cây tổng hợp
+
+# Bánh fondant
+banh-fondant-cong-chua                    <-  Bánh fondant công chúa
+banh-fondant-sieu-nhan                    <-  Bánh fondant siêu nhân
+banh-fondant-thu-cung                     <-  Bánh fondant thú cưng
+banh-fondant-hoa-hong                     <-  Bánh fondant hoa hồng
+
+# Bánh sự kiện
+banh-su-kien-2-tang                       <-  Bánh sự kiện 2 tầng
+banh-khai-truong-hoa-hong                 <-  Bánh khai trương hoa hồng
+banh-cuoi-3-tang                          <-  Bánh cưới 3 tầng
+banh-tiec-cong-ty-in-logo                 <-  Bánh tiệc công ty in logo
+
+# Bánh in hình / in chữ
+banh-in-hinh-theo-yeu-cau                 <-  Bánh in hình theo yêu cầu
+banh-in-chu-chuc-mung                     <-  Bánh in chữ chúc mừng
+banh-in-anh-gia-dinh                      <-  Bánh in ảnh gia đình
+banh-in-logo-thuong-hieu                  <-  Bánh in logo thương hiệu
+
+## Bánh ngọt
+
+# Bánh su kem
+su-kem-vani-6-cai                         <-  Su kem vani 6 cái
+su-kem-socola-6-cai                       <-  Su kem socola 6 cái
+su-kem-matcha-6-cai                       <-  Su kem matcha 6 cái
+su-kem-dau-6-cai                          <-  Su kem dâu 6 cái
+
+# Bánh tart
+tart-trai-cay-tuoi                        <-  Tart trái cây tươi
+tart-chanh-leo                            <-  Tart chanh leo
+tart-trung                                <-  Tart trứng
+tart-socola-hat                           <-  Tart socola hạt
+
+# Bánh bông lan
+bong-lan-trung-muoi                       <-  Bông lan trứng muối
+bong-lan-cuon-la-dua                      <-  Bông lan cuộn lá dứa
+bong-lan-cuon-socola                      <-  Bông lan cuộn socola
+bong-lan-pho-mai-nuong                    <-  Bông lan phô mai nướng
+
+# Cupcake
+cupcake-vani-6-cai                        <-  Cupcake vani 6 cái
+cupcake-red-velvet-6-cai                  <-  Cupcake red velvet 6 cái
+cupcake-socola-6-cai                      <-  Cupcake socola 6 cái
+cupcake-matcha-6-cai                      <-  Cupcake matcha 6 cái
+
+## Bánh mặn
+
+# Bánh mì chà bông phô mai
+banh-mi-cha-bong-pho-mai                  <-  Bánh mì chà bông phô mai
+banh-mi-cha-bong-trung-muoi               <-  Bánh mì chà bông trứng muối
+banh-mi-cha-bong-bo-toi                   <-  Bánh mì chà bông bơ tỏi
+banh-mi-cha-bong-mayonnaise               <-  Bánh mì chà bông mayonnaise
+
+# Bánh sừng trâu mặn
+sung-trau-nhan-xuc-xich                   <-  Sừng trâu nhân xúc xích
+sung-trau-pho-mai                         <-  Sừng trâu phô mai
+sung-trau-thit-nguoi                      <-  Sừng trâu thịt nguội
+sung-trau-ga-pho-mai                      <-  Sừng trâu gà phô mai
+
+# Bánh tart mặn
+tart-man-ga-nam                           <-  Tart mặn gà nấm
+tart-man-thit-xong-khoi                   <-  Tart mặn thịt xông khói
+tart-man-tom-pho-mai                      <-  Tart mặn tôm phô mai
+tart-man-rau-cu-pho-mai                   <-  Tart mặn rau củ phô mai
+
+## Bánh lạnh
+
+# Tiramisu
+tiramisu-coc                              <-  Tiramisu cốc
+tiramisu-matcha                           <-  Tiramisu matcha
+tiramisu-dau                              <-  Tiramisu dâu
+tiramisu-nguyen-hop                       <-  Tiramisu nguyên hộp
+
+# Mousse
+mousse-socola                             <-  Mousse socola
+mousse-xoai                               <-  Mousse xoài
+mousse-chanh-day                          <-  Mousse chanh dây
+mousse-dau                                <-  Mousse dâu
+
+# Macaron
+hop-macaron-6-vi                          <-  Hộp macaron 6 vị
+hop-macaron-12-vi                         <-  Hộp macaron 12 vị
+hop-macaron-3-cai                         <-  Hộp macaron 3 cái
+macaron-le-1-cai                          <-  Macaron lẻ 1 cái
+
+# Cheesecake
+cheesecake-chanh-day                      <-  Cheesecake chanh dây
+cheesecake-dau                            <-  Cheesecake dâu
+cheesecake-oreo                           <-  Cheesecake oreo
+basque-burnt-cheesecake                   <-  Basque burnt cheesecake
+
+## Bánh mì & Bánh nướng
+
+# Bánh mì hoa cúc
+banh-mi-hoa-cuc                           <-  Bánh mì hoa cúc
+banh-mi-hoa-cuc-nhan-kem                  <-  Bánh mì hoa cúc nhân kem
+banh-mi-hoa-cuc-nho-kho                   <-  Bánh mì hoa cúc nho khô
+banh-mi-hoa-cuc-me                        <-  Bánh mì hoa cúc mè
+
+# Baguette
+baguette-truyen-thong                     <-  Baguette truyền thống
+baguette-nguyen-cam                       <-  Baguette nguyên cám
+baguette-bo-toi                           <-  Baguette bơ tỏi
+baguette-pho-mai                          <-  Baguette phô mai
+
+# Bánh sừng trâu
+sung-trau-bo-phap                         <-  Sừng trâu bơ Pháp
+sung-trau-socola                          <-  Sừng trâu socola
+sung-trau-hanh-nhan                       <-  Sừng trâu hạnh nhân
+sung-trau-nhan-kem                        <-  Sừng trâu nhân kem
+
+# Bánh quy / Cookies
+cookies-socola-chip                       <-  Cookies socola chip
+cookies-bo-yen-mach                       <-  Cookies bơ yến mạch
+cookies-matcha                            <-  Cookies matcha
+cookies-hanh-nhan                         <-  Cookies hạnh nhân
+
+## Bánh Healthy / Ăn kiêng
+
+# Bánh Keto
+banh-keto-hanh-nhan                       <-  Bánh Keto hạnh nhân
+banh-keto-pho-mai                         <-  Bánh Keto phô mai
+banh-keto-socola                          <-  Bánh Keto socola
+banh-keto-chanh                           <-  Bánh Keto chanh
+
+# Bánh không đường
+bong-lan-khong-duong                      <-  Bông lan không đường
+cookies-yen-mach-khong-duong              <-  Cookies yến mạch không đường
+brownie-khong-duong                       <-  Brownie không đường
+muffin-chuoi-khong-duong                  <-  Muffin chuối không đường
+
+# Bánh thuần chay
+banh-chuoi-oc-cho-thuan-chay              <-  Bánh chuối óc chó thuần chay
+cupcake-socola-thuan-chay                 <-  Cupcake socola thuần chay
+banh-matcha-thuan-chay                    <-  Bánh matcha thuần chay
+cookies-hat-thuan-chay                    <-  Cookies hạt thuần chay
+
+## Các loại bánh khác
+
+# Bánh Trung Thu
+banh-trung-thu-thap-cam                   <-  Bánh Trung Thu thập cẩm
+banh-trung-thu-tra-xanh                   <-  Bánh Trung Thu trà xanh
+banh-trung-thu-dau-xanh-sau-rieng         <-  Bánh Trung Thu đậu xanh sầu riêng
+banh-trung-thu-trung-muoi                 <-  Bánh Trung Thu trứng muối
+
+# Bánh Giáng sinh
+banh-khuc-cay-giang-sinh                  <-  Bánh khúc cây Giáng sinh
+banh-gung-giang-sinh                      <-  Bánh gừng Giáng sinh
+banh-trai-cay-kho                         <-  Bánh trái cây khô
+panettone                                 <-  Panettone
+
+# Bánh Tết & đặc sản
+banh-pia-sau-rieng                        <-  Bánh pía sầu riêng
+banh-dua-nuong                            <-  Bánh dừa nướng
+banh-in-dau-xanh                          <-  Bánh in đậu xanh
+banh-quy-bo-tet                           <-  Bánh quy bơ Tết
