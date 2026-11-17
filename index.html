@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Tiệm Bánh Bơ Sữa – Bánh tươi nướng mỗi sáng</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧁</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+ <div class="wrap top">
+  <button id="burger" class="ic" aria-label="Mở menu" aria-expanded="false">☰</button>
+  <a href="#" class="logo">Bơ Sữa<span>.</span></a>
+  <form class="search" role="search" onsubmit="return false">
+   <input id="q" type="search" placeholder="Tìm bánh sinh nhật, tiramisu, cookies…" aria-label="Tìm kiếm bánh">
+   <button aria-label="Tìm">🔍</button>
+  </form>
+  <div class="icons">
+   <button class="ic" aria-label="Tài khoản">👤</button>
+   <button class="ic" aria-label="Giỏ hàng">🛒<span class="badge" id="count">0</span></button>
+  </div>
+ </div>
+
+ <nav id="nav" aria-label="Danh mục bánh">
+  <ul class="nav">
+   <li class="has-sub"><a href="#sinh-nhat">Bánh sinh nhật</a>
+    <ul class="drop">
+     <li><a href="#kem-tuoi">Bánh kem tươi<small>Kem tươi, trái cây, socola</small></a></li>
+     <li><a href="#fondant">Bánh fondant<small>Tạo hình 3D theo yêu cầu</small></a></li>
+     <li><a href="#su-kien">Bánh sự kiện<small>Khai trương, cưới, tiệc công ty</small></a></li>
+     <li><a href="#in-hinh">Bánh in hình / in chữ</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#banh-ngot">Bánh ngọt</a>
+    <ul class="drop">
+     <li><a href="#su-kem">Bánh su kem</a></li>
+     <li><a href="#tart">Bánh tart trái cây</a></li>
+     <li><a href="#bong-lan">Bánh bông lan</a></li>
+     <li><a href="#cupcake">Cupcake</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#banh-man">Bánh mặn</a>
+    <ul class="drop">
+     <li><a href="#mi-cha-bong">Bánh mì chà bông phô mai</a></li>
+     <li><a href="#sung-trau-man">Bánh sừng trâu mặn</a></li>
+     <li><a href="#tart-man">Bánh tart mặn</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#banh-lanh">Bánh lạnh</a>
+    <ul class="drop">
+     <li><a href="#tiramisu">Tiramisu</a></li>
+     <li><a href="#mousse">Mousse</a></li>
+     <li><a href="#macaron">Macaron</a></li>
+     <li><a href="#cheesecake">Cheesecake</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#banh-mi">Bánh mì &amp; Bánh nướng</a>
+    <ul class="drop">
+     <li><a href="#hoa-cuc">Bánh mì hoa cúc</a></li>
+     <li><a href="#baguette">Baguette</a></li>
+     <li><a href="#sung-trau">Bánh sừng trâu</a></li>
+     <li><a href="#cookies">Bánh quy / Cookies</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#healthy">Healthy / Ăn kiêng</a>
+    <ul class="drop">
+     <li><a href="#keto">Bánh Keto</a></li>
+     <li><a href="#khong-duong">Bánh không đường</a></li>
+     <li><a href="#thuan-chay">Bánh thuần chay</a></li>
+    </ul></li>
+   <li class="has-sub"><a href="#khac">Bánh khác</a>
+    <ul class="drop">
+     <li><a href="#trung-thu">Bánh Trung Thu</a></li>
+     <li><a href="#giang-sinh">Bánh Giáng sinh</a></li>
+     <li><a href="#tet">Bánh Tết &amp; đặc sản</a></li>
+    </ul></li>
+   <li><a href="#lien-he">Liên hệ</a></li>
+  </ul>
+ </nav>
+</header>
+
+<main>
+ <!-- BÌA ĐẦU TRANG -->
+ <section class="cover" id="bia">
+  <div class="wrap">
+   <div>
+    <h1>Cảm ơn quý khách đã chọn Bơ Sữa</h1>
+    <p>Mỗi chiếc bánh rời lò đều được làm từ bơ sữa thật và đôi tay của người thợ, để mang đến bàn tiệc của quý khách một chút ngọt ngào. Sự tin tưởng của quý khách là lý do chúng tôi dậy sớm nhào bột mỗi ngày.</p>
+    <p>Chúc quý khách và gia đình thật nhiều niềm vui, và có thật nhiều dịp để cùng chia nhau một chiếc bánh ngon.</p>
+    <div class="cta"><a class="btn" href="#san-pham">Xem bánh mới</a><a class="btn alt" href="#sinh-nhat">Đặt bánh sinh nhật</a></div>
+    <p class="sign">Đội ngũ Tiệm Bánh Bơ Sữa</p>
+   </div>
+   <div><div class="art" data-cake="0" data-img="bia"></div><div id="cover-fname"></div></div>
+  </div>
+ </section>
+
+ <!-- SẢN PHẨM NỔI BẬT -->
+ <section id="san-pham">
+  <div class="wrap">
+   <div class="head"><div><h2>Mới ra lò &amp; bán chạy</h2><p>Làm trong ngày, giao trong 2 giờ nội thành.</p></div></div>
+   <div class="grid" id="grid"></div>
+  </div>
+ </section>
+ <!-- CÁC DANH MỤC (mỗi mục có id riêng cho menu điều hướng) -->
+ <p class="empty wrap" id="empty" hidden></p>
+ <div id="catalog"></div>
+
+ <!-- LIÊN HỆ -->
+ <section id="lien-he">
+  <div class="wrap contact">
+   <div class="addr">
+    <h2>Ghé tiệm hoặc gọi đặt bánh</h2>
+    <p class="big">📍 450-451 Đ. Lê Văn Việt, Tăng Nhơn Phú, Hồ Chí Minh, Việt Nam</p>
+    <ul>
+     <li>📞 <a href="tel:02812345678">028 1234 5678</a></li>
+     <li>✉️ <a href="mailto:xinchao@tiembanhbosua.vn">xinchao@tiembanhbosua.vn</a></li>
+     <li>🕖 Mở cửa mỗi ngày 7:00 – 21:30</li>
+    </ul>
+    <a class="btn" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=450-451+%C4%90.+L%C3%AA+V%C4%83n+Vi%E1%BB%87t%2C+T%C4%83ng+Nh%C6%A1n+Ph%C3%BA%2C+H%E1%BB%93+Ch%C3%AD+Minh">Chỉ đường</a>
+   </div>
+   <div class="map">
+    <iframe title="Bản đồ tiệm bánh tại 450-451 Lê Văn Việt" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=450-451+%C4%90.+L%C3%AA+V%C4%83n+Vi%E1%BB%87t%2C+T%C4%83ng+Nh%C6%A1n+Ph%C3%BA%2C+H%E1%BB%93+Ch%C3%AD+Minh&amp;hl=vi&amp;z=17&amp;output=embed"></iframe>
+    <a target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=450-451+%C4%90.+L%C3%AA+V%C4%83n+Vi%E1%BB%87t%2C+T%C4%83ng+Nh%C6%A1n+Ph%C3%BA%2C+H%E1%BB%93+Ch%C3%AD+Minh">Không thấy bản đồ? Mở trong Google Maps</a>
+   </div>
+  </div>
+ </section>
+</main>
+
+<footer>
+ <div class="wrap">
+  <div class="fg">
+   <div>
+    <a href="#" class="logo" style="color:#fff">Bơ Sữa<span>.</span></a>
+    <p style="margin:10px 0 0">Tiệm bánh thủ công, nướng mới mỗi sáng.</p>
+    <div class="fa">📍 Địa chỉ: 450-451 Đ. Lê Văn Việt, Tăng Nhơn Phú, Hồ Chí Minh, Việt Nam</div>
+    <div class="soc"><a href="#">Facebook</a><a href="#">Instagram</a><a href="#">TikTok</a></div>
+   </div>
+   <div><h3>Liên hệ</h3><ul><li>📞 028 1234 5678</li><li>✉️ xinchao@tiembanhbosua.vn</li><li>🕖 7:00 – 21:30 mỗi ngày</li></ul></div>
+   <div><h3>Chính sách</h3><ul><li><a href="#">Giao hàng nội thành 2 giờ</a></li><li><a href="#">Miễn phí giao từ 500.000đ</a></li><li><a href="#">Đổi trả trong ngày</a></li></ul></div>
+   <div><h3>Danh mục</h3><ul><li><a href="#sinh-nhat">Bánh sinh nhật</a></li><li><a href="#banh-ngot">Bánh ngọt</a></li><li><a href="#banh-lanh">Bánh lạnh</a></li><li><a href="#healthy">Healthy / Ăn kiêng</a></li></ul></div>
+  </div>
+  <div class="copy">© 2026 Tiệm Bánh Bơ Sữa. Mọi quyền được bảo lưu.</div>
+ </div>
+</footer>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<dialog id="modal" aria-label="Chi tiết bánh"></dialog>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
